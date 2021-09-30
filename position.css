@@ -1,0 +1,23 @@
+i{
+    float: left;
+    padding:20px;
+    font-size: 30px;
+  }
+    li{ 
+        display: inline;
+  font-size: 20px;
+        padding: 20px;
+       
+    }
+    ul{
+     
+      background-color: blueviolet;
+      padding: 20px;
+      text-align:right;
+      color:white;
+    }
+    .img1{
+        position: relative;
+        top:20px;
+        left:100px;
+    }  
